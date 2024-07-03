@@ -1,0 +1,19 @@
+header{
+    background-color: #16c02d;
+}
+main{
+    background-color: #1d9105;
+}
+body{
+    color: #000;
+    margin: 1cm;
+}
+h1{
+    text-align: center;
+    padding: 30%px;
+    font-size: 32%;
+}
+.autor{
+    text-align: right;
+    font-size: 20%;
+}
